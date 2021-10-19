@@ -105,10 +105,10 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7705.ts
 http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
-http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png",Gaan Bangla
-http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7898.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png",Shomoy TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
