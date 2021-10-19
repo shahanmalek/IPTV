@@ -11,7 +11,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-id="Channel I" tvg-name="Channel I HD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangla News",Channel I HD
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla News",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
@@ -71,3 +71,15 @@ http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
 http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png" group-title="BrightWall Technology (Channel)",Ekushey TV
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
