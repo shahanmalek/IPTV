@@ -49,39 +49,39 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BrightWall Technology (Channel)",GTV
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="BrightWall Technology (Channel)",T Sports
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png" group-title="BrightWall Technology (Channel)",Ekattor
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://15.20.20.20/live/channel-logo/atn-news.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://15.20.20.20/live/channel-logo/atn-news.png" group-title="BrightWall Technology (Channel)",ATN NEWS
 http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg" group-title="BrightWall Technology (Channel)",Bangla TV
 http://103.159.4.38:5868/BD-BANGLA-17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png" group-title="BrightWall Technology (Channel)",NTV
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png" group-title="BrightWall Technology (Channel)",beIN Sports 1
 http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports2png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports2png" group-title="BrightWall Technology (Channel)",beIN Sports 2
 http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png" group-title="BrightWall Technology (Channel)",Music India
 http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="BrightWall Technology (Channel)",Nagorik TV
 http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="http://10.16.100.244/files/asiantv.png" group-title="BrightWall Technology (Channel)",Asian TV
 http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png" group-title="BrightWall Technology (Channel)",Bijoy TV
 http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
 http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png" group-title="BrightWall Technology (Channel)",Gaan Bangla
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="BrightWall Technology (Channel)",Shomoy TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo Movies" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/Mq2jeWV007t.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo Movies" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/Mq2jeWV007t.png" group-title="BrightWall Technology (Channel)",Bongo Movies
 https://edge4.bioscopelive.com/hls/anonymous/-2YqilqKDYy7Bt2Yrqstjw/1634629693/bongo_movies_mid/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Bangla" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/j6nIdklOX39.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Bangla" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/j6nIdklOX39.png" group-title="BrightWall Technology (Channel)",Zee Bangla
 https://edge4.bioscopelive.com/hls/anonymous/ufXcloJ8_288zhrS-p69cA/1634629785/zee_bangla_mid/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/99ZKMd4mWYM.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/99ZKMd4mWYM.png" group-title="BrightWall Technology (Channel)",BTV World
 https://edge4.bioscopelive.com/hls/anonymous/HqW6dk---zCjkn6EFki8wA/1634629841/btv_world_mid/index.m3u8
