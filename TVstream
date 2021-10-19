@@ -11,7 +11,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTINF:-1 tvg-id="Channel I" tvg-name="Channel I HD" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangla News",Channel I HD
 https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC 
+" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla News",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
@@ -53,3 +54,19 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://15.20.20.20/live/channel-logo/atn-news.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/BD-BANGLA-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/BD-BANGLA-17/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2"tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports2png" group-title="BrightWall Technology (Channel)",Ekushey TV
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
