@@ -72,7 +72,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png",Ekattor
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
