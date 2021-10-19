@@ -83,3 +83,9 @@ http://10.16.100.205:8082/bangla/dESh_tv_local_BD.m3u8
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png" group-title="BrightWall Technology (Channel)",Ekushey TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo Movies" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/Mq2jeWV007t.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+https://edge4.bioscopelive.com/hls/anonymous/-2YqilqKDYy7Bt2Yrqstjw/1634629693/bongo_movies_mid/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Bangla" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/j6nIdklOX39.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+https://edge4.bioscopelive.com/hls/anonymous/ufXcloJ8_288zhrS-p69cA/1634629785/zee_bangla_mid/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="https://cdn.bioscopelive.com/upload/channels/sd/99ZKMd4mWYM.png" group-title="BrightWall Technology (Channel)",Ekushey TV
+https://edge4.bioscopelive.com/hls/anonymous/HqW6dk---zCjkn6EFki8wA/1634629841/btv_world_mid/index.m3u8
