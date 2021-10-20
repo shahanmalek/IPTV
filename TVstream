@@ -105,7 +105,7 @@ http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7705.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png",Bijoy TV
-http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
+https://rhridoy136.shortcm.li/bijoytv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
