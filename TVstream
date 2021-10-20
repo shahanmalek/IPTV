@@ -113,240 +113,35 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7898.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ShomoyTV" tvg-logo="http://10.16.100.244/files/somoy(1).png",Shomoy TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV WORLD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV WORLD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png",CHANNEL 9 HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png",SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png",SA TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",BANGLA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png",BANGLA TV HD
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",AMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6h83JRO.png" group-title="Music",9X Jalwa
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa
 http://14.199.164.20:4001/play/a0nc/index.m3u8
 
-#EXTINF:-1 tvg-id="9XM.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1,IN: B4U Music
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2390.ts
-
-#EXTINF:-1,IN : B4U Movies
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2391.ts
-
-#EXTINF:-1,IN : B4U Plus
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2392.ts
-
-#EXTINF:-1,IN:  Sony Six SD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1.ts
-
-#EXTINF:-1,IN: Zee Talkies
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/76.ts
-
-#EXTINF:-1,IN: &TV HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/321.ts
-
-#EXTINF:-1,IN: 9x Music
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8048.ts
-
-#EXTINF:-1,IN: 9X TASHAN
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16972.ts
-
-#EXTINF:-1,IN: Aamar Bangla
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7704.ts
-
-#EXTINF:-1,IN: AASTHA
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/320.ts
-
-#EXTINF:-1,IN: Animal Planet HINDI
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17097.ts
-
-#EXTINF:-1,IN: CHANNEL V
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7695.ts
-
-#EXTINF:-1,IN: CHANNEL Y
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16986.ts
-
-#EXTINF:-1,IN: Color HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/119.ts
-
-#EXTINF:-1,IN: Colors Bangla
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7903.ts
-
-#EXTINF:-1,IN: DEEPTO TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7913.ts
-
-#EXTINF:-1,IN: Dhoom Music
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7916.ts
-
-#EXTINF:-1,IN: India Today
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1074.ts
-
-#EXTINF:-1,IN: MANORANJAN MOVIES
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/31863.ts
-
-#EXTINF:-1,IN: MASTIII
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17092.ts
-
-#EXTINF:-1,IN: MOHONA TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7895.ts
-
-#EXTINF:-1,IN: MTV India
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8049.ts
-
-#EXTINF:-1,IN: NDTV 24X7
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/885.ts
-
-#EXTINF:-1,IN: NICK HD+
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7694.ts
-
-#EXTINF:-1,IN: Pogo
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8047.ts
-
-#EXTINF:-1,IN: PRIME ASIA
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16992.ts
-
-#EXTINF:-1,IN: Colors RISHTAY
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1068.ts
-
-#EXTINF:-1,IN: Sony Aath
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7891.ts
-
-#EXTINF:-1,IN: Sangat TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7914.ts
-
-#EXTINF:-1,IN: SANJH TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/16994.ts
-
-#EXTINF:-1,IN: SONY MAX2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.ts
-
-#EXTINF:-1,IN: sony pix HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7703.ts
-
-#EXTINF:-1,IN: SONY SAB
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/325.ts
-
-#EXTINF:-1,IN: Sony TV HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/313.ts
-
-#EXTINF:-1,IN: Star Gold
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/53.ts
-
-#EXTINF:-1,IN: STAR GOLD SD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.ts
-
-#EXTINF:-1,IN: Star movies
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/17098.ts
-
-#EXTINF:-1,IN: Star Plus
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1062.ts
-
-#EXTINF:-1,IN: STAR SPORTS 1 HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3249.ts
-
-#EXTINF:-1,IN: Star world HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7699.ts
-
-#EXTINF:-1,IN: Star world premier HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7700.ts
-
-#EXTINF:-1,IN: TEN 1 HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/887.ts
-
-#EXTINF:-1,IN: TEN 2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/10183.ts
-
-#EXTINF:-1,IN: Ten 3
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/8765.ts
-
-#EXTINF:-1,IN: Premier Sports 1
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/889.ts
-
-#EXTINF:-1,IN:  COLORS HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5633.ts
-
-#EXTINF:-1,IN:  SONY MAX HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5636.ts
-
-#EXTINF:-1,IN:  Sony six HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5630.ts
-
-#EXTINF:-1,IN:  Filmon TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5698.ts
-
-#EXTINF:-1,IN: Zee bangla
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7888.ts
-
-#EXTINF:-1,IN: ZEE BANGLA Cinema HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7906.ts
-
-
-#EXTINF:-1,IN: Zee HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/869.ts
-
-
-#EXTINF:-1,IN: Zindagi
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1051.ts
-
-#EXTINF:-1,IN: Zing TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1050.ts
-
-#EXTINF:-1,IN: HBO
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5699.ts
-
-
-#EXTINF:-1,IN: STAR GOLD HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5637.ts
-
-#EXTINF:-1,IN: Star movies
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5641.ts
-
-#EXTINF:-1,IN: STAR MOVIES HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5640.ts
-
-#EXTINF:-1,IN: STAR PLUS HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5631.ts
-
-#EXTINF:-1,IN: Star sports HD 2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5626.ts
-
-#EXTINF:-1,IN: Star sports HD3
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5627.ts
-
-#EXTINF:-1,IN: Star sports HD4
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5628.ts
-
-#EXTINF:-1,IN: Zee Cinema HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/5638.ts
-
-#EXTINF:-1,IN: & PICTURE HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.ts
-
-#EXTINF:-1,IN: &tv HD india
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6215.ts
-
-
-#EXTINF:-1,IN: M TUNES HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6207.ts
-
-#EXTINF:-1,IN: STAR SPORTS 1 HINDI HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/53994.ts
