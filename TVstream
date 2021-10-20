@@ -83,21 +83,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 http://nandansyst.com/hls/nandan.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Jonaki" tvg-logo="https://i.playboard.app/p/AAUvwnispRimWVIAZhopHr8yuRWsB26AIKqnS7AkMxhKVA/default.jpg",Jonaki
+#EXTINF:-1 tvg-id="ext" tvg-name="CCN Banngla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKB-RFnOHHV8aRV8iSgU6heNofuKlJ0fej8uzeEYvZmnQPsakeHcWdc7JuZ9hAmU_7Tk&usqp=CAU",CCN Bangla
 #EXTVLCOPT:network-caching=1000
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV™
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png",Anando TV
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/NEWS-6/tracks-v1a1/mono.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTV Documentary
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288", MOHONA TV
 #EXTVLCOPT:network-caching=1000
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
-#EXTVLCOPT:network-caching=1000
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
+https://rhridoy136.shortcm.li/mohonatv.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Ekushey_Television_Logo.png",Ekushey TV
 #EXTVLCOPT:network-caching=1000
@@ -107,49 +103,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png",Ekattor
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg",Bangla TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png",beIN Sports 1
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports2png",beIN Sports 2
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png",Music India
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png",Nagorik TV
-#EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png",Asian TV
-#EXTVLCOPT:network-caching=1000
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7705.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png",Bijoy TV
-#EXTVLCOPT:network-caching=1000
-https://rhridoy136.shortcm.li/bijoytv.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
-#EXTVLCOPT:network-caching=1000
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png",Gaan Bangla
 #EXTVLCOPT:network-caching=1000
@@ -203,11 +159,54 @@ http://14.199.164.20:4001/play/a0nc/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png",Anando TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTV Documentary
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288", MOHONA TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU",DW
 #EXTVLCOPT:network-caching=1000
-https://rhridoy136.shortcm.li/mohonatv.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/NEWS-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports1.png",beIN Sports 1
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/SPORTS-5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 2" tvg-logo="http://15.20.20.20/live/channel-logo/bein%20sports2png",beIN Sports 2
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/SPORTS-6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="http://15.20.20.20/live/channel-logo/music-india.png",Music India
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nagorik TV" tvg-logo="http://10.16.100.244/files/nagorik.png",Nagorik TV
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png",Asian TV
+#EXTVLCOPT:network-caching=1000
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7705.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png",Bijoy TV
+#EXTVLCOPT:network-caching=1000
+https://rhridoy136.shortcm.li/bijoytv.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
+#EXTVLCOPT:network-caching=1000
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png",Ekattor
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
