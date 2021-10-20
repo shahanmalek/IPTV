@@ -211,5 +211,3 @@ http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla" tvg-logo="https://www.pngitem.com/pimgs/m/682-6822598_tv-channels-offer-transparent-zee-bangla-logo-hd.png",Zee Bangla
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1634765800~exp=1634768800~acl=/*~hmac=6c23ac5572ac96e077b7309a740b5274117edcc297168f2b0f23e7df624e28a3
