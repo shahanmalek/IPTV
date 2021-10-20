@@ -84,7 +84,7 @@ http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg",Bangla TV
-http://103.159.4.38:5868/BD-BANGLA-17/tracks-v1a1/mono.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
 http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
@@ -148,3 +148,7 @@ http://14.199.164.20:4001/play/a0nc/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png",Anando TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
