@@ -197,15 +197,19 @@ http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png",Asian TV
 #EXTVLCOPT:network-caching=1000
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7705.ts
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://10.16.100.244/files/bijoytv(1).png",Bijoy TV
 #EXTVLCOPT:network-caching=1000
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg",Deepto TV
+#EXTVLCOPT:network-caching=1000
+http://10.16.100.203:8082/bangla/deeptoo_riptv_21.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="http://10.16.100.244/files/deshtv(1).png",Desh TV
 #EXTVLCOPT:network-caching=1000
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
+http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
