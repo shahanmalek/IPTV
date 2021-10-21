@@ -327,3 +327,6 @@ http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabaang
+#EXTVLCOPT:network-caching=1000
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
