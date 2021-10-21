@@ -211,3 +211,15 @@ http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",itv
+#EXTVLCOPT:network-caching=1000
+http://162.244.81.142:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAQ TV" tvg-logo="https://play-lh.googleusercontent.com/ZC-gqjVuMBdxN7CU_WfcoQ3i8zaxrlJx09mgY2GnLIBOFNbZApMr17vOgYyWnre2KA" group-title="Bangladesh",MAQ TV
+#EXTVLCOPT:network-caching=1000
+http://str24.l9574.com/517.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nobodip TV" tvg-logo="http://nobodiptv.com/file/uploads/2017/12/logo-nobodiptv.png",Nobodip TV
+#EXTVLCOPT:network-caching=1000
+http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
+
