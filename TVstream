@@ -99,7 +99,11 @@ https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTVLCOPT:network-caching=1000
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 1
+#EXTVLCOPT:network-caching=1000
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 2
 #EXTVLCOPT:network-caching=1000
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
@@ -205,7 +209,7 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7904.ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png",Ekattor
 #EXTVLCOPT:network-caching=1000
