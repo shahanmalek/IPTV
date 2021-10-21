@@ -259,62 +259,62 @@ https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbofamily.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbo.m3u8
 
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES",Cinemax 
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT",NAT GEO HD [RUSSIA]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png",NAT GEO HD [RUSSIA]
 #EXTVLCOPT:network-caching=1000
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="RELIGIOUS",Saudi Quran 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png",Saudi Quran 
 #EXTVLCOPT:network-caching=1000
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png" group-title="RELIGIOUS",Saudi Sunnah
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png",Saudi Sunnah
 #EXTVLCOPT:network-caching=1000
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="RELIGIOUS",ITV USA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg",ITV USA
 #EXTVLCOPT:network-caching=1000
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS",Shemaroo Kids
+#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png",Shemaroo Kids
 #EXTVLCOPT:network-caching=1000
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS",ANIMAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg",ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS",AniPlus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg",AniPlus
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/dr9445/h/h02/01.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="KIDS",EBS KIDS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png",EBS KIDS
 #EXTVLCOPT:network-caching=1000
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="SPORTS",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 #EXTVLCOPT:network-caching=1000
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqVK91.png" group-title="NEWS",AAJ TAK HD	 				
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KYqVK91.png",AAJ TAK HD	 				
 #EXTVLCOPT:network-caching=1000
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VBjM4HO.png" group-title="NEWS",NDTV India
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VBjM4HO.png",NDTV India
 #EXTVLCOPT:network-caching=1000
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png" group-title="NEWS",ET Now
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/ET_NOW_220px.png",ET Now
 #EXTVLCOPT:network-caching=1000
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?@i4e.com.bd
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png" group-title="MUSIC",Dil Se
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png",Dil Se
 #EXTVLCOPT:network-caching=1000
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg" group-title="MUSIC",Dil Se
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://streamstat.net/play.cgi?sid=232182014&ext=.m3u8
