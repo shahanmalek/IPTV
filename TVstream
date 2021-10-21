@@ -311,10 +311,19 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiam
 #EXTVLCOPT:network-caching=1000
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8?@i4e.com.bd
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png",Dil Se
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/rehank3g/Logo/master/DilSe.png",Dil Se
 #EXTVLCOPT:network-caching=1000
 https://live.hungama.com/linear/dil-se/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
+#EXTINF:1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://streamstat.net/play.cgi?sid=232182014&ext=.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-akaal-channel-9910.jpg",Akaal TV
+#EXTVLCOPT:network-caching=1000
+http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2021/09/b4u-kadak.jpg",B4U Kadak
+#EXTVLCOPT:network-caching=1000
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8?checkedby:iptvcat.com
+
