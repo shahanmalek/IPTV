@@ -1479,38 +1479,10 @@ http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
 #EXTINF:-1 ,& Flix HD
 http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
-#EXTINF:-1 ,PTV Global
-https://itpolly.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:-1 ,PTV Global
-https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:-1 ,PTV Home
-https://itpolly.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
-#EXTINF:-1 ,PTV Home
-https://edge01.iptv.digijadoo.net/live/ptv_home/chunks.m3u8
-#EXTINF:-1 ,PTV News
-https://itpolly.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
-#EXTINF:-1 ,PTV News
-https://edge01.iptv.digijadoo.net/live/ptv_news/chunks.m3u8
-#EXTINF:-1 ,PTV World
-https://itpolly.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
-#EXTINF:-1 ,PTV World
-https://edge01.iptv.digijadoo.net/live/ptv_world/chunks.m3u8
-#EXTINF:-1 ,Ary Asia
-https://itpolly.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
-#EXTINF:-1 ,Ary Asia
-https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
-#EXTINF:-1 ,Ary Zindigi
-https://itpolly.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
-#EXTINF:-1 ,Ary Zindigi
-https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 #EXTINF:-1 ,Hum Masala
 http://iptv.kitv.live:1935/live/Shari/MTV-P/142.m3u8
 #EXTINF:-1 ,Hum Sitaray
 http://iptv.kitv.live:1935/live/Shari/MTV-P/143.m3u8
-#EXTINF:-1 ,Geo News
-https://itpolly.iptv.digijadoo.net/live/geo_news/chunks.m3u8
-#EXTINF:-1 ,Geo News
-https://edge01.iptv.digijadoo.net/live/geo_news/chunks.m3u8
 #EXTINF:-1 ,Geo News
 http://103.205.133.14/hls/geonews.m3u8
 #EXTINF:-1 ,Geo News
@@ -1519,20 +1491,6 @@ http://103.205.133.19/hls/geonews.m3u8
 http://103.205.133.14/hls/9xm.m3u8
 #EXTINF:-1 ,9XM
 http://103.205.133.19/hls/9xm.m3u8
-#EXTINF:-1 ,9XO
-http://iptv.kitv.live:1935/live/Shari/MTV-P/180.m3u8
-#EXTINF:-1 ,Music India
-http://iptv.kitv.live:1935/live/Shari/MTV-P/190.m3u8
-#EXTINF:-1 ,Zoom
-https://itpolly.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1 ,Zoom
-https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
-#EXTINF:-1 ,Zing
-https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 ,Zing
-https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1 ,Zing
-http://iptv.kitv.live:1935/live/Shari/MTV-P/322.m3u8
 #EXTINF:-1 ,E 24
 http://iptv.kitv.live:1935/live/Shari/MTV-P/189.m3u8
 #EXTINF:-1 ,MTV Beats India
@@ -1545,20 +1503,10 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/185.m3u8
 http://103.205.133.14/hls/b4umovies.m3u8
 #EXTINF:-1 ,B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
-#EXTINF:-1 ,Bflix Movies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/144.m3u8
-#EXTINF:-1 ,BBC World
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 ,BBC World
-https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 ,BBC World
 http://iptv.kitv.live:1935/live/Shari/MTV-P/164.m3u8
 #EXTINF:-1 ,BBC World
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
-#EXTINF:-1 ,Al Jazeera
-https://itpolly.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:-1 ,Al Jazeera
-https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
 #EXTINF:-1 ,Al Jazeera
 http://103.205.133.14/hls/aljazeera.m3u8
 #EXTINF:-1 ,Al Jazeera
@@ -1567,50 +1515,6 @@ http://103.205.133.19/hls/aljazeera.m3u8
 http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
 #EXTINF:-1 ,NBC News
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
-#EXTINF:-1 ,DW
-https://itpolly.iptv.digijadoo.net/live/dw/chunks.m3u8
-#EXTINF:-1 ,DW
-https://edge01.iptv.digijadoo.net/live/dw/chunks.m3u8
-#EXTINF:-1 ,DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,DW
-http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
-#EXTINF:-1 ,Euronews
-https://itpolly.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1 ,Euronews
-https://edge01.iptv.digijadoo.net/live/euro_news/chunks.m3u8
-#EXTINF:-1 ,CNA
-https://itpolly.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1 ,CNA
-https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1 ,CNN
-https://itpolly.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 ,CNN
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 ,Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 ,ET Now
-https://itpolly.iptv.digijadoo.net/live/et_now/chunks.m3u8
-#EXTINF:-1 ,ET Now
-https://edge01.iptv.digijadoo.net/live/et_now/chunks.m3u8
-#EXTINF:-1 ,ET Now
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 ,ABP News
-https://itpolly.iptv.digijadoo.net/live/abp_news/chunks.m3u8
-#EXTINF:-1 ,ABP News
-https://edge01.iptv.digijadoo.net/live/abp_news/chunks.m3u8
-#EXTINF:-1 ,CNBC18
-https://itpolly.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1 ,CNBC18
-https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1 ,APN
-https://itpolly.iptv.digijadoo.net/live/apn_news/chunks.m3u8
-#EXTINF:-1 ,APN
-https://edge01.iptv.digijadoo.net/live/apn_news/chunks.m3u8
-#EXTINF:-1 ,Times Now
-https://itpolly.iptv.digijadoo.net/live/times_now/chunks.m3u8
-#EXTINF:-1 ,Times Now
-https://edge01.iptv.digijadoo.net/live/times_now/chunks.m3u8
 #EXTINF:-1 ,Times Now
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 ,ITV1 UK
