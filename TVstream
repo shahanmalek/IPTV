@@ -59,6 +59,10 @@ http://str24.l9574.com/519.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://w7.pngwing.com/pngs/225/230/png-transparent-zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-television-text-logo.png",ZEE Bangla HD
+#EXTVLCOPT:network-caching=1000
+https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doyel TV" tvg-logo="https://lh3.googleusercontent.com/proxy/55AWSCVvO0q9KDB4bKUyvILLfgfO8txovo8W_wZAAQIhvZmD1bWQ6FyGhZ_HfGcWo-klwDue_X6RlzLOLRJUj-KvmHu5hNMMoyD_kyZpUJaU-_OOjBwaDJxFegSafxlTRzfpDMg",Doyel TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
