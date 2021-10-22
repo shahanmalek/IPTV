@@ -277,7 +277,7 @@ https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbofamily.m3u8
 
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 #EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbo.m3u8
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215041
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #EXTVLCOPT:network-caching=1000
@@ -350,3 +350,10 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabaang
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rAomdug.png", Orange Bangla
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215031
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg", WoW CINEMA
+https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215037
+
