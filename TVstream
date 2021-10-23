@@ -63,6 +63,10 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv0
 #EXTVLCOPT:network-caching=1000
 https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
+#EXTVLCOPT:network-caching=1000
+https://26gl.short.gy/ZeeBanglaCinema-by-DoraTv.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doyel TV" tvg-logo="https://lh3.googleusercontent.com/proxy/55AWSCVvO0q9KDB4bKUyvILLfgfO8txovo8W_wZAAQIhvZmD1bWQ6FyGhZ_HfGcWo-klwDue_X6RlzLOLRJUj-KvmHu5hNMMoyD_kyZpUJaU-_OOjBwaDJxFegSafxlTRzfpDMg",Doyel TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
@@ -250,6 +254,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png",Bongo TV
 #EXTVLCOPT:network-caching=1000
 http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV
+#EXTVLCOPT:network-caching=1000
+https://26gl.short.gy/ZeeTvHd-by-DoraTv.m3u8
 
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg",WoW CINEMA
 #EXTVLCOPT:network-caching=1000
