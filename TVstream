@@ -167,6 +167,10 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTVLCOPT:network-caching=1000
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-id="Zing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png",Zing
+#EXTVLCOPT:network-caching=1000
+https://26gl.short.gy/Zing-by-DoraTv.m3u8
+
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://i.imgur.com/6h83JRO.png",9X Jalwa
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0nc/index.m3u8
