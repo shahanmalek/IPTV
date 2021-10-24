@@ -271,23 +271,23 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="IND. MOVIES",Bflix Movies
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg",Bflix Movies
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/nOiPsyr.png",HBO Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbohits.m3u8
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/2VYyqS9.png",HBO Signature
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbosig.m3u8
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbofamily.m3u8
 
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://i.imgur.com/9whd4No.png",HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 #EXTVLCOPT:network-caching=1000
 https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215041
 
@@ -362,4 +362,3 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabaang
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-
