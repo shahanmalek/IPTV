@@ -109,13 +109,9 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 1
 #EXTVLCOPT:network-caching=1000
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 2
-#EXTVLCOPT:network-caching=1000
 http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 2
 #EXTVLCOPT:network-caching=100
 http://10.16.100.213:8080/hls/gtv_bsl.m3u8
 
@@ -283,7 +279,7 @@ https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbohits.m3u8
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbosig.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p5doERm.png",HBO Family
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbofamily.m3u8
 
