@@ -27,7 +27,7 @@ https://rhridoy136.shortcm.li/channel24.m3u8
 #EXTVLCOPT:network-caching=1000
 https://rhridoy136.shortcm.li/channeli.m3u8
 
-#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangla News",DBC News
+#EXTINF:-1 tvg-id="DBC News" tvg-name="DBC News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 
@@ -243,7 +243,7 @@ http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAQ TV" tvg-logo="https://play-lh.googleusercontent.com/ZC-gqjVuMBdxN7CU_WfcoQ3i8zaxrlJx09mgY2GnLIBOFNbZApMr17vOgYyWnre2KA" group-title="Bangladesh",MAQ TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MAQ TV" tvg-logo="https://play-lh.googleusercontent.com/ZC-gqjVuMBdxN7CU_WfcoQ3i8zaxrlJx09mgY2GnLIBOFNbZApMr17vOgYyWnre2KA",MAQ TV
 #EXTVLCOPT:network-caching=1000
 http://str24.l9574.com/517.stream/index.m3u8
 
@@ -362,10 +362,4 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabaang
 #EXTVLCOPT:network-caching=1000
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rAomdug.png", Orange Bangla
-https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215031
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EIRUPv7.jpg", WoW CINEMA
-https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215037
 
