@@ -362,3 +362,11 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253",& Pictures
 #EXTVLCOPT:network-caching=1000
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10622
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
+#EXTVLCOPT:network-caching=1000
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10607
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10609
