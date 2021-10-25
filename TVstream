@@ -259,6 +259,9 @@ http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTVLCOPT:network-caching=1000
 https://26gl.short.gy/ZeeTvHd-by-DoraTv.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV 2
+http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg",WoW CINEMA
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
@@ -419,4 +422,28 @@ http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
 
 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
+Zee Cinema HD
+http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+
+Sony Ten 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+Sony Ten 2 HD
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
+
+UTV Action
+https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
+
+Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+Madani Bangla 
+https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
+
+Discovery HD 
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+
+Sun Bangla
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
