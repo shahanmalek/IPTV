@@ -41,7 +41,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="MOHONA TV" tvg-name="MOHONA TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288",MOHONA TV
 #EXTVLCOPT:network-caching=1000
-https://rhridoy136.shortcm.li/mohonatv.m3u8
+https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV HD" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
 #EXTVLCOPT:network-caching=1000
@@ -367,100 +367,133 @@ http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10622
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",Colors HD
+#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/1Ek1alc_zzPZpGMsVADvCKz86QYsCFq2UXkyf6KrqO4VMf6GbaEK7umJDR_g0g6VTYsrmcHjl4s=s900-c-k-c0x00ffffff-no-rj",Sangeet Bangla
+#EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5U02DsFwZAe1hko7njRmD-aRG0QpSuxFQg8OPLCVAVBm1LbYt3LwdV9aX387cyUgCvN8&usqp=CAU",Bishwa Bangla 24
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://television-live.com/uploads/posts/ch4hrthryhcergherg.jpg",Deshe Bideshe 
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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",Can Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEk4ZLcUubLu3M_nvjO2ANzFeMIOyp848NtQ&usqp=CAU",Can Bangla 
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQKI3C6C9e9yIxq9YHgRwd71T-AnDYCDkXOwe3auZntSDZj0GpH3Bh6KF5ubdJi2qH6w&usqp=CAU",Channel H 
+#EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+#EXTVLCOPT:network-caching=1000
 https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max HD
+#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",Peace TV
+#EXTVLCOPT:network-caching=1000
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207",Zee Action
+#EXTVLCOPT:network-caching=1000
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png",TLC SD Hindi 
+#EXTVLCOPT:network-caching=1000
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies Select HD
+#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-47YmeLSKLio/WBBpgeyCK6I/AAAAAAAABIg/-6u6pPCC-J8gjA2leT68csdxz2F1wyf6wCLcB/s320/Star%2BSports%2B1%2Blogo.png",Star Sports 1 
+#EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 
+#EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112",Star Sports 3 
+#EXTVLCOPT:network-caching=1000
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1200px-2019_Disney_Channel_logo.svg.png",Disney Channel
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/664-6648659_plex-logo-png-png-download-miniplex-channel-transparent.png",Mini Plex
+#EXTVLCOPT:network-caching=1000
 http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
 
 #EXTINF:-1 tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/04/9X-jhakaas-logo.jpg",9X Jhakaas
+#EXTVLCOPT:network-caching=1000
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",Zee Cinema HD
+#EXTVLCOPT:network-caching=1000
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/980556876906680320/Ad_N1bOl.jpg",Sony Ten 1 HD
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest/scale-to-width-down/250?cb=20190322144000",Sony Ten 2 HD
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pngaaa.com/792/2721792-middle.png",UTV Action
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png",Sony Six HD
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQSiNvFP3xy9RCCD5dRrP832YRCnUGe3JSipgsg=s900-c-k-c0x00ffffff-no-rj",Madani Bangla 
+#EXTVLCOPT:network-caching=1000
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQEEE9PjvLlJAA/company-logo_200_200/0/1618911537271?e=2159024400&v=beta&t=MDQn-dYsZd3NNaw02K1Lc9gcV49bSJGNzQdFRnheh_s",Discovery HD 
+#EXTVLCOPT:network-caching=1000
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931",Sun Bangla
+#EXTVLCOPT:network-caching=1000
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/114931-pic31.jpg?format=webp&w=400&dpr=2.6",Colors Bangla HD
+#EXTVLCOPT:network-caching=1000
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" ,Star Plus HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg",Star Plus HD
+#EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png", BBC Earth HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg", Star Jalsha HD 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
+#EXTVLCOPT:network-caching=1000 
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png", Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png",Colors Cineplex HD 
+#EXTVLCOPT:network-caching=1000
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2514208/screenshots/14580066/qtv.jpg", QTV Cartoon 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2514208/screenshots/14580066/qtv.jpg",QTV Cartoon 
+#EXTVLCOPT:network-caching=1000
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
