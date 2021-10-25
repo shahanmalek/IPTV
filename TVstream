@@ -285,7 +285,7 @@ https://raw.githubusercontent.com/lupael/IPTV/master/channels/hbofamily.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9whd4No.png",HBO
 #EXTVLCOPT:network-caching=1000
-https://m3u-editor.com/serve/c2fd7750-3014-11ec-96a3-357142bb7d0c/404215041
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png",Cinemax 
 #EXTVLCOPT:network-caching=1000
