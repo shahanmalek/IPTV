@@ -405,7 +405,7 @@ http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-47YmeLSKLio/WBBpgeyCK6I/AAAAAAAABIg/-6u6pPCC-J8gjA2leT68csdxz2F1wyf6wCLcB/s320/Star%2BSports%2B1%2Blogo.png"Star Sports 1 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-47YmeLSKLio/WBBpgeyCK6I/AAAAAAAABIg/-6u6pPCC-J8gjA2leT68csdxz2F1wyf6wCLcB/s320/Star%2BSports%2B1%2Blogo.png",Star Sports 1 
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359",Star Sports 2 
