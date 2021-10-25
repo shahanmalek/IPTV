@@ -390,77 +390,77 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-Peace TV
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
-Zee Action
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Zee Action
 http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 
-Animal Planet HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Animal Planet HD
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-TLC SD Hindi 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",TLC SD Hindi 
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 
-Star Movies Select HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-Star Sports 1 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png"Star Sports 1 
 http://93.152.174.144:4000/play/ss1in/index.m3u8
 
-Star Sports 2 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Star Sports 2 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
 
-Star Sports 3 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Star Sports 3 
 http://93.152.174.144:4000/play/ss3in/index.m3u8
 
-Disney Channel
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Disney Channel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 
-Mini Plex
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Mini Plex
 http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
 
-9X Jhakaas
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 
-Zee Cinema HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Zee Cinema HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 
-Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Sony Ten 1 HD
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 
-Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Sony Ten 2 HD
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 
-UTV Action
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",UTV Action
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 
-Sony Six HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Sony Six HD
 https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 
-Madani Bangla 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Madani Bangla 
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 
-Discovery HD 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Discovery HD 
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
-Sun Bangla
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Sun Bangla
 http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 
-Colors Bangla HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Colors Bangla HD
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
-Star Plus HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" ,Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
-BBC Earth HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png", BBC Earth HD
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 
-Star Jalsha HD 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png", Star Jalsha HD 
 https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 
-Colors Cineplex HD
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png", Colors Cineplex HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
-QTV Cartoon 
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png", QTV Cartoon 
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
