@@ -307,10 +307,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_s
 #EXTVLCOPT:network-caching=1000
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8?@i4e.com.bd
 
-#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png",Shemaroo Kids
-#EXTVLCOPT:network-caching=1000
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@i4e.com.bd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg",ANIMAX
 #EXTVLCOPT:network-caching=1000
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
@@ -345,7 +341,7 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/12/19/Cartoon%20network.jpg",Cartoon Network
 #EXTVLCOPT:network-caching=1000
-http://streamstat.net/play.cgi?sid=232182014&ext=.m3u8
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-akaal-channel-9910.jpg",Akaal TV
 #EXTVLCOPT:network-caching=1000
