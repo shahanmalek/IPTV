@@ -359,10 +359,6 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10622
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix
-#EXTVLCOPT:network-caching=1000
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10607
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",Sony HD
 #EXTVLCOPT:network-caching=1000
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/10609
@@ -390,3 +386,37 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+
+Zee Action
+http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+
+Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+TLC SD Hindi 
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+
+Star Movies Select HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+Star Sports 1 
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+
+Star Sports 2 
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+
+Star Sports 3 
+http://93.152.174.144:4000/play/ss3in/index.m3u8
+
+Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+Mini Plex
+http://212.224.98.196:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=RK
+
+9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+
