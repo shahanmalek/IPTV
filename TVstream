@@ -478,13 +478,17 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/114931-pic31.jpg?format=webp&w=400&dpr=2.6",Colors Bangla 2
+#EXTVLCOPT:network-caching=1000
+http://jo123.biz/jweb/m3u8.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg",Star Plus HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 #EXTVLCOPT:network-caching=1000
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
 #EXTVLCOPT:network-caching=1000 
@@ -497,3 +501,7 @@ https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/2514208/screenshots/14580066/qtv.jpg",QTV Cartoon 
 #EXTVLCOPT:network-caching=1000
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png", Sony Aath 
+#EXTVLCOPT:network-caching=1000
+http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=1200&e=junk.m3u8
