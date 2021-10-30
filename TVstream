@@ -483,7 +483,7 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Bengali_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg",Star Plus HD
 #EXTVLCOPT:network-caching=1000
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth HD
 #EXTVLCOPT:network-caching=1000
@@ -508,3 +508,8 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=1200&e=junk.m3u8
 Duronto 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
+NICK HD+
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+Astro Cricket
+https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
