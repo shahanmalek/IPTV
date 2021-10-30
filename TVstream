@@ -505,11 +505,11 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=1200&e=junk.m3u8
 
-Duronto 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg", Duronto 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
-NICK HD+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD+
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
-Astro Cricket
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
 https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
