@@ -10,7 +10,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288", ATN Islamic
 #EXTVLCOPT:network-caching=1000
 https://rhridoy136.shortcm.li/atnislamic.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" ,Banglavision
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
@@ -113,7 +112,7 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV 2
 #EXTVLCOPT:network-caching=100
-http://10.16.100.213:8080/hls/gtv_bsl.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="http://15.20.20.20/live/channel-logo/banglatv.jpg",Bangla TV
 #EXTVLCOPT:network-caching=1000
@@ -505,3 +504,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png", Sony Aath 
 #EXTVLCOPT:network-caching=1000
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=1200&e=junk.m3u8
+
+Duronto 
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
