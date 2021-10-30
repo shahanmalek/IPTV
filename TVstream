@@ -491,7 +491,7 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD
 #EXTVLCOPT:network-caching=1000 
-https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/3982
 
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png",Colors Cineplex HD 
 #EXTVLCOPT:network-caching=1000
