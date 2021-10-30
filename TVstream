@@ -469,10 +469,6 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest?cb=20210319122931",Sun Bangla
-#EXTVLCOPT:network-caching=1000
-http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/114931-pic31.jpg?format=webp&w=400&dpr=2.6",Colors Bangla HD
 #EXTVLCOPT:network-caching=1000
 https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
