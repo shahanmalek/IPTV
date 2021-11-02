@@ -230,9 +230,9 @@ http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="http://15.20.20.20/live/channel-logo/ekattor.png",Ekattor
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/ekattor_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="itv" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",itv
 #EXTVLCOPT:network-caching=1000
