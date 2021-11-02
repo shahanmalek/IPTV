@@ -397,6 +397,9 @@ https://idvd.multitvsolution.com/idvo/discoverykidseng_540p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png",Sony Max 2
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",Peace TV
 #EXTVLCOPT:network-caching=1000
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
@@ -499,7 +502,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png", Sony Aath 
 #EXTVLCOPT:network-caching=1000
-http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=1200&e=junk.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg", Duronto 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
