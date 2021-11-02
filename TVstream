@@ -82,10 +82,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png", Bangla TV
-#EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nandan Tv" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA",Nandan Tv
 #EXTVLCOPT:network-caching=1000
 http://nandansyst.com/hls/nandan.m3u8
