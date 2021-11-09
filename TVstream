@@ -506,8 +506,8 @@ http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK HD+
 https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png", Astro Cricket
-https://24tv.short.gy/Local_IPTV_PLAYLIST/ASTRO_CRICKET_LIVE.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo.png",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg",Sony Yay
 https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
