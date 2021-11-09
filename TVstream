@@ -547,14 +547,8 @@ https://streamer-1.toffeelive.com/mobile_hls/ary_zindegi/5/04dfcf51f5f17bc7739a4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",Hum Masala
 https://streamer-1.toffeelive.com/mobile_hls/hum_masala/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",Discovery Turbo
-https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png",Sony BBC Earth HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png",Sony BBC Earth SD
-https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",Discovery
+http://65.2.4.240/jioo.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg",Ary Music
 https://streamer-1.toffeelive.com/mobile_hls/ary_music/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -611,16 +605,16 @@ https://streamer-1.toffeelive.com/mobile_hls/sports_live_01/5/04dfcf51f5f17bc773
 https://streamer-1.toffeelive.com/mobile_hls/sports_live_02/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://65.2.4.240/jioo.php?c=Ten_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten2_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_ten3_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75",Nick JR.
 https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
