@@ -505,14 +505,8 @@ https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg",Ruposhi Bangla
 https://streamer-1.toffeelive.com/mobile_hls/ruposhi__bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png", ony SAB HD
-https://streamer-1.toffeelive.com/mobile_hls/sony_sab_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",Sony SAB SD
-https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png",And TV
-https://streamer-1.toffeelive.com/mobile_hls/atv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png", Sony SAB HD
+http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=800&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg",Bflix Movies
 https://streamer-1.toffeelive.com/mobile_hls/bflix_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
