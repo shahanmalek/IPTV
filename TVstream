@@ -521,3 +521,6 @@ http://65.2.4.240/jioo.php?c=History_18_Hindi&q=600&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png", NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
