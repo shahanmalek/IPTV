@@ -214,11 +214,11 @@ http://10.16.100.208:8082/hindi/de$htV_1sTop.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports" tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1",T Sports
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_Logo.png/220px-Bangladesh_Television_Logo.png",BTV
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ekattor" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png",Ekattor
 #EXTVLCOPT:network-caching=1000
