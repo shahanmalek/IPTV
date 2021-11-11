@@ -313,7 +313,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@i4e.com.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
 #EXTVLCOPT:network-caching=1000
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8?@i4e.com.bd
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KYqVK91.png",AAJ TAK HD	 				
 #EXTVLCOPT:network-caching=1000
@@ -410,7 +410,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/1200px-TLC-Logo_2016.svg.png",TLC SD Hindi 
 #EXTVLCOPT:network-caching=1000
-http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies Select HD
 #EXTVLCOPT:network-caching=1000
