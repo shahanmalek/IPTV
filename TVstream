@@ -106,7 +106,8 @@ http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",GTV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+#http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
+http://103.109.56.116/live/skyfeed1001/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="http://10.16.100.244/files/gaanbangla(1).png",Gaan Bangla
 #EXTVLCOPT:network-caching=1000
@@ -516,3 +517,7 @@ http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png", History Channel Hindi
 http://65.2.4.240/jioo.php?c=History_18_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",Star Sports 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
