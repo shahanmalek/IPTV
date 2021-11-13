@@ -524,3 +524,5 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png", NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://durbinlive.com/uploads/tv_image/khushboo-bangla.jpg", NASA TV 
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
