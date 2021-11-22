@@ -65,7 +65,7 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-https://26gl.short.gy/ZeeBanglaCinema-by-DoraTv.m3u8
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Doyel TV" tvg-logo="https://lh3.googleusercontent.com/proxy/55AWSCVvO0q9KDB4bKUyvILLfgfO8txovo8W_wZAAQIhvZmD1bWQ6FyGhZ_HfGcWo-klwDue_X6RlzLOLRJUj-KvmHu5hNMMoyD_kyZpUJaU-_OOjBwaDJxFegSafxlTRzfpDMg",Doyel TV
 #EXTVLCOPT:network-caching=1000
