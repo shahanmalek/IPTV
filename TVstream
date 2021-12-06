@@ -175,7 +175,7 @@ https://tempx.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU",Al Jazeera
 #EXTVLCOPT:network-caching=1000
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+http://103.159.4.38:5868/NEWS-6/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NTV" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
 #EXTVLCOPT:network-caching=1000
@@ -501,16 +501,16 @@ http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=800&e=junk.m3u8
 https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 1 HD
-http://65.2.4.240/jioo.php?c=Ten_HD&q=800&e=junk.m3u8
+http://103.159.4.38:9090/SPORTS-8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 2 HD
-http://65.2.4.240/jioo.php?c=Ten_2&q=800&e=junk.m3u8
+http://103.159.4.38:9090/SPORTS-9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",Sony Ten 3 HD
-http://65.2.4.240/jioo.php?c=Ten3_HD&q=800&e=junk.m3u8
+http://103.159.4.38:9090/SPORTS-10/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1",Sony SIX HD
-http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
+http://103.159.4.38:9090/SPORTS-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:1 tvg-logo="https://s6.gifyu.com/images/imagecd8ecb4abf754cde.png",Discovery Bangla
 http://65.2.4.240/jioo.php?c=Discovery_Channel_Hindi&q=600&e=junk.m3u8
